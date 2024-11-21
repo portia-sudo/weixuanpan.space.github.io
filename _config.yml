@@ -22,16 +22,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Weixuan Pan"  
-  "Portia"
+  name             : |
+  Weixuan Pan
+  Portia
   pronouns         : # example: "she/her"  
   bio              : "bio: "Undergraduate Astronomy student passionate about galaxies, cosmological simulations, and unraveling the mysteries of the universe."
 "
   location         : "Guangzhou,China"
   employer         : "Guangzhou University"
   uri              : # URL
-  email            :"wxpan@e.gzhu.edu.cn"  
-  "wxpan72@gmail.com" 
+  email            :|
+  wxpan@e.gzhu.edu.cn  
+  wxpan72@gmail.com 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
