@@ -22,7 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "portia.png"
-  name             : "Weixuan Pan" \n "Portia"
+  name             : "Weixuan Pan"
+  name             : "Portia"
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Guangzhou  China"
