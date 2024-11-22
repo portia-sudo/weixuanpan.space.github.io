@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "portia.png"
+  avatar           : "portia-avatar.png"
   name             : "Weixuan Pan"
-  #name             : "Portia"
+  #name            : "Portia"
   pronouns         : # example: "she/her"  
   bio              : 
   location         : "Guangzhou  China"
