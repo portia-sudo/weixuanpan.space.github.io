@@ -13,8 +13,4 @@ redirect_from:
 I am a junior majoring in Astronomy, in the [Deparment of Physics & Materials](https://spee.gzhu.edu.cn/index.htm) 
 at [Guangzhou University](https://www.gzhu.edu.cn/), China.
 
-#I am a third-year undergraduate student majoring in Astronomy at the [School of Physics and Materials Science](https://spee.gzhu.edu.cn/index.htm), [Guangzhou University](https://www.gzhu.edu.cn/). 
-
-Research interests :   
-&nbsp;&nbsp;&nbsp; Galaxy formation and evolution  
-&nbsp;&nbsp;&nbsp; Cosmological simulations
+My main research interests include galaxy formation and evolution, dark matter, cosmology, and related topics. I have also been involved in relevant research projects.
